@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "jsdom": "^25.0.1",
+    "node-fetch": "^3.3.2"
+  },
+  "name": "pocket-import",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "pocket-auth.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
